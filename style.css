@@ -36,3 +36,38 @@ body{
     border: 0px;
     
 }
+
+.cusor {
+    cursor:pointer;
+}
+
+.odin{
+    padding-top: 2px;
+}
+
+.subscribe-channel-button{
+    float: left;
+
+}
+
+#subscribe{
+    height: 30px;
+    margin-top: -15px;
+    
+}
+
+#like{
+    position: absolute;
+    right: 10px;
+    display: inline;
+}
+
+#grouping{
+    width: 640px;
+    position: relative;
+   float: left;
+   margin-right: 30px;
+}
+.video-player{
+    background-color:white;
+}
